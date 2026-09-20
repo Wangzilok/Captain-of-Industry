@@ -1,0 +1,9 @@
+{
+  "type": "coi:ore_crusher",
+  "ingredients": [
+    { "ingredient": { "item": "minecraft:raw_iron" }, "count": 1 }
+  ],
+  "results": [
+    { "item": "coi:raw_iron_powder", "count": 1 }
+  ]
+}

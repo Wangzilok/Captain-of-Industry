@@ -1,0 +1,9 @@
+{
+  "type": "coi:ore_crusher",
+  "ingredients": [
+    { "ingredient": { "item": "minecraft:coal" }, "count": 1 }
+  ],
+  "results": [
+    { "item": "coi:coal_powder", "count": 1 }
+  ]
+}

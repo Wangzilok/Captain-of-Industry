@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:copper_ingot"
+    },
+    "B": {
+      "tag": "minecraft:wooden_fences"
+    },
+    "C": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "ACA",
+    " B ",
+    " B "
+  ],
+  "result": {
+    "item": "coi:oak_telegraph_pole"
+  }
+}

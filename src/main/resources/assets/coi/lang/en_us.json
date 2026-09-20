@@ -1,0 +1,23 @@
+{
+  "block.coi.ore_crusher": "Ore Crusher",
+
+  "block.coi.infinite_energy": "Infinite Energy",
+  "block.coi.oak_telegraph_pole": "Oak Telegraph Pole",
+
+  "item.coi.charcoal_powder": "Charcoal Powder",
+  "item.coi.coal_powder": "Coal Powder",
+  "item.coi.copper_powder": "Copper Powder",
+  "item.coi.electric_wire": "Electric Wire",
+  "item.coi.iron_powder": "Iron Powder",
+  "item.coi.raw_iron_powder": "Raw Iron Powder",
+
+  "block.coi.title.ore_crusher": "Ore Crusher",
+
+  "tab.coi_machine": "Captain of Industry Machine",
+  "tab.coi_energy": "Captain of Industry Energy",
+  "tab.coi_material": "Captain of Industry Material",
+
+  "jei.coi.ore_crusher": "smash",
+  "jei.coi.text.ten_seconds": "ten seconds",
+  "jei.coi.energy_consumption_20": "energy consumption: 200CU/s"
+}

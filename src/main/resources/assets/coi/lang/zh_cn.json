@@ -1,0 +1,23 @@
+{
+  "block.coi.ore_crusher": "矿石粉碎机",
+
+  "block.coi.infinite_energy": "无尽能源",
+  "block.coi.oak_telegraph_pole": "橡木电线杆",
+
+  "item.coi.charcoal_powder": "木炭粉",
+  "item.coi.coal_powder": "碳粉",
+  "item.coi.copper_powder": "铜粉",
+  "item.coi.electric_wire": "电线",
+  "item.coi.iron_powder": "铁粉",
+  "item.coi.raw_iron_powder": "铁矿粉",
+
+  "block.coi.title.ore_crusher": "矿石粉碎机",
+
+  "tab.coi_machine": "工业巨头 机器",
+  "tab.coi_energy": "工业巨头 能源",
+  "tab.coi_material": "工业巨头 材料",
+
+  "jei.coi.ore_crusher": "粉碎",
+  "jei.coi.text.ten_seconds": "10秒",
+  "jei.coi.energy_consumption_20": "能量消耗：200CU/s"
+}

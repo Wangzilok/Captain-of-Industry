@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "coi:block/infinite_energy"
+    }
+  }
+}

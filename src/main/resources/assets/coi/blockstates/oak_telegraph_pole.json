@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "height=0": { "model": "coi:block/oak_telegraph_pole_0" },
+    "height=1": { "model": "coi:block/oak_telegraph_pole_0" },
+    "height=2": { "model": "coi:block/oak_telegraph_pole_0" },
+    "height=3": { "model": "coi:block/oak_telegraph_pole_1" }
+  }
+}
